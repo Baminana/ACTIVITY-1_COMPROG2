@@ -1,6 +1,9 @@
-package COUNTINGDUPLICATECHARACTERS;
+package COUNTINGDUPLICATECHACTERS;
 
 public class COUNTINGDUPLICATECHARACTERS {
+
+
+
 
 
     static final int NO_OF_CHARS = 256;
@@ -28,5 +31,8 @@ public class COUNTINGDUPLICATECHARACTERS {
          printDups(str);
      }
 }
+
+
+
 
 
